@@ -1,2 +1,1 @@
-# blog
-record development
+# 记录成长
